@@ -120,3 +120,27 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+
+/* custom css  */
+.fas{
+    font-size: 25px;
+    background-color: #F3F5FF;
+    text-decoration: none;
+}
+#booking-confirm{
+    display: none;
+    margin-top: 50px;
+}
+.booking-msg{
+    height: 400px;
+    width: 60%;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+}
+.booking-msg h1{
+    font-size: 38px;
+    padding: 100px 30px;
+    font-style: inherit;
+    color: purple;
+}
